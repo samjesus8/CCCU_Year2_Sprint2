@@ -1,0 +1,292 @@
+﻿{
+  "Questions": "All Our Questions",
+  "GeneralKnowledge": [
+    {
+      "Question": "What do cows drink?",
+      "CorrectAnswer": "Water",
+      "Incorrect1": "Milk",
+      "Incorrect2": "Beer",
+      "Incorrect3": "Petrol"
+    },
+    {
+      "Question": "Who is Rowan Atkinson most known as??",
+      "CorrectAnswer": "Mr Bean",
+      "Incorrect1": "Simon Cowell",
+      "Incorrect2": "The Rock",
+      "Incorrect3": "John Malkovich"
+    },
+    {
+      "Question": "Which element is said to keep bones strong?",
+      "CorrectAnswer": "Calcium",
+      "Incorrect1": "Hydrogen",
+      "Incorrect2": "Lead",
+      "Incorrect3": "Uranium"
+    },
+    {
+      "Question": "Which English city is known as the Steel City?",
+      "CorrectAnswer": "Sheffield",
+      "Incorrect1": "Birmingham",
+      "Incorrect2": "Liverpool",
+      "Incorrect3": "London"
+    },
+    {
+      "Question": "What was Meta Platforms Inc formerly known as?",
+      "CorrectAnswer": "Facebook",
+      "Incorrect1": "Instagram",
+      "Incorrect2": "Snapchat",
+      "Incorrect3": "Tik Tok"
+    },
+    {
+      "Question": "What is the currency of Poland?",
+      "CorrectAnswer": "Zloty",
+      "Incorrect1": "Pounds",
+      "Incorrect2": "Rupees",
+      "Incorrect3": "Dollars"
+    },
+    {
+      "Question": "What is the name of the winged horse in Greek mythology?",
+      "CorrectAnswer": "Pegasus",
+      "Incorrect1": "Zeus",
+      "Incorrect2": "Poseidon",
+      "Incorrect3": "Achilles"
+    },
+    {
+      "Question": "Which body sets the interest rates in the UK?",
+      "CorrectAnswer": "Bank of England",
+      "Incorrect1": "Bank of Baroda",
+      "Incorrect2": "HM Revenue & Customs",
+      "Incorrect3": "Barclays"
+    },
+    {
+      "Question": "In which sport is the Davis Cup contested?",
+      "CorrectAnswer": "Tennis",
+      "Incorrect1": "Football",
+      "Incorrect2": "Cricket",
+      "Incorrect3": "Basketball"
+    },
+    {
+      "Question": "What brand of beer does Homer Simpson drink?",
+      "CorrectAnswer": "Duff Beer",
+      "Incorrect1": "Stella Artois",
+      "Incorrect2": "Fosters",
+      "Incorrect3": "Budweiser"
+    }
+  ],
+
+  "Animals": [
+    {
+      "Question": "What is a group of kittens called?",
+      "CorrectAnswer": "A Kindle",
+      "Incorrect1": "A Fluffle",
+      "Incorrect2": "A Clowder",
+      "Incorrect3": "A Pod"
+    },
+    {
+      "Question": "The London eye rotates twice as fast as which animal sprints?",
+      "CorrectAnswer": "A Tortoise",
+      "Incorrect1": "A Sloth",
+      "Incorrect2": "A Cheetah",
+      "Incorrect3": "A Panda"
+    },
+    {
+      "Question": "What do camels store in their humps?",
+      "CorrectAnswer": "Fat",
+      "Incorrect1": "Water",
+      "Incorrect2": "Spit",
+      "Incorrect3": "Grass"
+    },
+    {
+      "Question": "How long do joeys stay in the kangaroos pouch before they are fully independent?",
+      "CorrectAnswer": "8 Months",
+      "Incorrect1": "4 Months",
+      "Incorrect2": "10 Months",
+      "Incorrect3": "8 Months"
+    },
+    {
+      "Question": "Which animal has the longest lifespan?",
+      "CorrectAnswer": "Immortal Jellyfish",
+      "Incorrect1": "Ocean Quahog",
+      "Incorrect2": "Artic Whale",
+      "Incorrect3": "Galapagos Giant Tortoise"
+    },
+    {
+      "Question": "What is the strongest animal proportional to its size?",
+      "CorrectAnswer": "Dung Beetle",
+      "Incorrect1": "Leaf Cutter ant",
+      "Incorrect2": "Grizzly Bear",
+      "Incorrect3": "Highland Gorilla"
+    },
+    {
+      "Question": "What do male penguins often give to female penguins to win them over?",
+      "CorrectAnswer": "A Rock",
+      "Incorrect1": "A Fish",
+      "Incorrect2": "A Feather",
+      "Incorrect3": "A Seaweed"
+    },
+    {
+      "Question": "Which bird is unable to move their eyes?",
+      "CorrectAnswer": "Owls",
+      "Incorrect1": "Eagles",
+      "Incorrect2": "Robins",
+      "Incorrect3": "Chickens"
+    },
+    {
+      "Question": "Which has the thickest fur of any mammal?",
+      "CorrectAnswer": "Sea Otter",
+      "Incorrect1": "Bison",
+      "Incorrect2": "Polar Bear",
+      "Incorrect3": "Artic Fox"
+    },
+    {
+      "Question": "The nose of what animal changes colour as it ages?",
+      "CorrectAnswer": "Lion",
+      "Incorrect1": "Tiger",
+      "Incorrect2": "Cheetah",
+      "Incorrect3": "Leopard"
+    }
+  ],
+  "Films": [
+    {
+      "Question": "What Name did Stan Lee give Iron Man In Captain America: Civil War?",
+      "CorrectAnswer": "Tony Stank",
+      "Incorrect1": "Tony Stank",
+      "Incorrect2": "Tony Stork",
+      "Incorrect3": "Tony Spank"
+    },
+    {
+      "Question": "What is the name of Thor’s hammer?",
+      "CorrectAnswer": "Mjolnir",
+      "Incorrect1": "Vanir",
+      "Incorrect2": "Norn",
+      "Incorrect3": "Aesir"
+    },
+    {
+      "Question": "Which character is not from Justice league?",
+      "CorrectAnswer": "Iron Man",
+      "Incorrect1": "Superman",
+      "Incorrect2": "Hawk Girl",
+      "Incorrect3": "Martian Manhunter"
+    },
+    {
+      "Question": "Which popular DC character uses an bow and arrow?",
+      "CorrectAnswer": "Green Arrow",
+      "Incorrect1": "Hawkeye",
+      "Incorrect2": "Archer",
+      "Incorrect3": "Robin Hood"
+    },
+    {
+      "Question": "Who was Snow White's Enemy in the film Snow White and the Seven Dwarfs (1937)?",
+      "CorrectAnswer": "The Evil Queen",
+      "Incorrect1": "Maleficent",
+      "Incorrect2": "Cruella De Vil",
+      "Incorrect3": "Scar"
+    },
+    {
+      "Question": "What is the name of Simbas dad in The Lion King",
+      "CorrectAnswer": "Mufasa",
+      "Incorrect1": "Timon",
+      "Incorrect2": "Pumbaa",
+      "Incorrect3": "Nala"
+    },
+    {
+      "Question": "In Forrest Gump, how does Bubba Die?",
+      "CorrectAnswer": "He gets shot",
+      "Incorrect1": "He gets blown up",
+      "Incorrect2": "He drowns",
+      "Incorrect3": "He has a heart attack"
+    },
+    {
+      "Question": "In Forrest Gump, what was Forrests IQ as a child?",
+      "CorrectAnswer": "75",
+      "Incorrect1": "56",
+      "Incorrect2": "80",
+      "Incorrect3": "81"
+    },
+    {
+      "Question": "In The Wonderfull Wizard Of Oz, What did the Tin Woodsman accidently kill?",
+      "CorrectAnswer": "He Accidently killed an bettle",
+      "Incorrect1": "He accidentally killed a ant",
+      "Incorrect2": "He accidentally killed a mouse",
+      "Incorrect3": "He Accidentally killled a spider"
+    },
+    {
+      "Question": "In The Wonderfull Wizard Of Oz, How did Oz appear to the Scarecrow?",
+      "CorrectAnswer": "As a beutiful woman",
+      "Incorrect1": "As a enormous head",
+      "Incorrect2": "As a giant ball of fire",
+      "Incorrect3": "As a beast"
+    }
+  ],
+  "Music": [
+    {
+      "Question": "Complete the following lyrics: Never gonna give you up, Never gonna let you down....",
+      "CorrectAnswer": "Never gonna run around and desert you",
+      "Incorrect1": "Never gonna run around and hurt you",
+      "Incorrect2": "Never gonna run away and leave you",
+      "Incorrect3": "Never gonna tell a lie and hurt you"
+    },
+    {
+      "Question": "Kanye West interupted Tayor Swifts speech at the 2009 MTV VMAs, but which Music Video was she receiving the award for?",
+      "CorrectAnswer": "You Belong with Me",
+      "Incorrect1": "We are never gettting back together",
+      "Incorrect2": "Love Story ",
+      "Incorrect3": "Tim McGraw"
+    },
+    {
+      "Question": "Which song did Gal Gadot and other celebs (argueably) butcher during the Covid Pandemic?",
+      "CorrectAnswer": "'Imagine' by John Lennon",
+      "Incorrect1": "'What A Wonderful World' by Louis Armstrong",
+      "Incorrect2": "'Heal the world' by Michael Jackson",
+      "Incorrect3": "'What's going on' by Marvin Gaye"
+    },
+    {
+      "Question": "Guy Berryman, Jon Buckland, Will Champion and Chris Martin are members of which band?",
+      "CorrectAnswer": "Coldplay",
+      "Incorrect1": "The Verve",
+      "Incorrect2": "U2",
+      "Incorrect3": "Blur"
+    },
+    {
+      "Question": "The Barbadian singer Robyn Fenty is better known by her middle name of what?",
+      "CorrectAnswer": "Rhianna",
+      "Incorrect1": "Beyonce",
+      "Incorrect2": "Adele",
+      "Incorrect3": "Shakira"
+    },
+    {
+      "Question": "In 2017 Luis Fonsi and Daddy Yankee topped the chart in 47 countries with which song?",
+      "CorrectAnswer": "Despacito",
+      "Incorrect1": "Something Just Like This",
+      "Incorrect2": "Closer",
+      "Incorrect3": "Human"
+    },
+    {
+      "Question": "Celine Dion had a hit with ‘My Heart Will Go On’ from the soundtrack of which movie?",
+      "CorrectAnswer": "Titanic",
+      "Incorrect1": "The Beach",
+      "Incorrect2": "Castaway",
+      "Incorrect3": "The Matrix"
+    },
+    {
+      "Question": "‘Blinding Lights’ is the longest-charting song in Billboard history and a hit for which singer?",
+      "CorrectAnswer": "The Weeknd",
+      "Incorrect1": "Justin Beiber",
+      "Incorrect2": "Drake",
+      "Incorrect3": "Shawn Mendes"
+    },
+    {
+      "Question": "Kickstart my heart is a song by which 80's Rock Band?",
+      "CorrectAnswer": "Motley Crue",
+      "Incorrect1": "Kiss",
+      "Incorrect2": "AC/DC",
+      "Incorrect3": "Guns N Roses"
+    },
+    {
+      "Question": "Swedish legends ABBA released their first album in 40 years in November 2021. What was it called?",
+      "CorrectAnswer": "Voyage",
+      "Incorrect1": "Trip",
+      "Incorrect2": "Journey",
+      "Incorrect3": "Discovery"
+    }
+  ]
+}
